@@ -1,4 +1,4 @@
-# Horangi Android Vulnerable App
+# Horangi Android ~~Vulnerable~~ Dummy App
 
 ## Protection
 * SSL Pinning
